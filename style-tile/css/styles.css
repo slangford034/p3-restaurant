@@ -11,17 +11,45 @@ section {
 .color-1,
 .color-2,
 .color-3,
+.color-4,
+.color-5,
+.color-6,
 .pattern-1,
 .pattern-2,
 .pattern-3, 
 .imagery-1,
 .imagery-2,
 .imagery-3 {
-	border: 1px solid #000;
+	border: 10px solid #fff;
 	float: left;
 	margin: 0 10px;
-	height: 50px;
-	width: 50px;
+	height: 100px;
+	width: 100px;
+	box-shadow: 0px 0px 2px 1px #F0F0F0;
+}
+
+.color-1 {
+	background: #CC4141;
+}
+
+.color-2 {
+	background: #F7941D;
+}
+
+.color-3 {
+	background: #8DC63F;
+}
+
+.color-4 {
+	background: #0097DA;
+}
+
+.color-5 {
+	background: #333333;
+}
+
+.color-6 {
+	background: #A1A1A1;
 }
 
 
