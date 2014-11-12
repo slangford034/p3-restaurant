@@ -4,9 +4,13 @@ h2, h3, p {
 }
 
 /* Layout for Style Tile*/
-section {
-	margin: 20px 0;
+img {
+	margin-top: 25px;
+	width: 100%;
+	border: 1px solid #a7a9ac;
 }
+
+
 
 .color-1,
 .color-2,
